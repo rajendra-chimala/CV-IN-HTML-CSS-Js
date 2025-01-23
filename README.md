@@ -1,2 +1,2 @@
-# CV-IN-HTML-CSS-Js
-This is my CV design using the HTML, CSS and Javascript. 
+# CV-in-HTML-CSS
+cv with html and css
